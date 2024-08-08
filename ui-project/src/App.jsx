@@ -21,7 +21,7 @@ function App() {
   return (
     <ThemeProvider theme={theme}>
       <CssBaseline />
-      <Grid container sx={{ backgroundColor: "black", height:{xs:"285vh",sm:"250vh",md:"230vh",lg:"215vh"} }}>
+      <Grid container sx={{ backgroundColor: "black" }}>
         <Grid item xs="auto" className="max-h-screen">
           <SideBar/>
         </Grid>
