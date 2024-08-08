@@ -17,7 +17,7 @@ function SideBar() {
   return (
       <AppBar
         position="static"
-        sx={{ backgroundColor: theme.palette.custom.main, width: "80px" , display:{xs: "none", lg:"block"}}}
+        sx={{ backgroundColor: theme.palette.custom.main, width: "80px" , display:{xs: "none", lg:"block", xl:"none"}}}
       >
         <Container maxWidth="xl">
           <Toolbar
