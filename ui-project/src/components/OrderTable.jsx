@@ -76,7 +76,7 @@ const OrderTable = () => {
         maxHeight: "550px",
         margin: "2px",
         marginTop: "17px",
-        marginLeft: "9px",
+        marginLeft: "12px",
         borderRadius: "6px",
       }}
     >

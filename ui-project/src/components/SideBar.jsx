@@ -26,7 +26,7 @@ function SideBar() {
               display: "flex",
               flexDirection: "column",
               justifyContent: "space-between",
-              height: { md: "100%", lg: "215vh" },
+              height: { md: "100%", lg: "213vh" },
               pt: 2,
               pb: 2,
             }}

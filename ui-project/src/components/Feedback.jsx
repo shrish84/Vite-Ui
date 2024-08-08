@@ -28,7 +28,7 @@ const Feedback = () => {
   ];
 
   return (
-    <div className="bg-[#2c2c3d] rounded-lg ml-7 m-5 px-2 py-2 overflow-y-auto " style={{maxHeight:"548px", width:{xs: 400 ,lg:350} }}>
+    <div className="bg-[#2c2c3d] rounded-lg ml-6 m-4 px-2 py-2 overflow-y-auto " style={{maxHeight:"548px", width:{xs: 400 ,lg:350} }}>
       <Typography variant="h6" className="text-white" sx={{paddingLeft:'12px'}} >
         Customer's Feedback
       </Typography>
